@@ -4,7 +4,7 @@ repo: upptime-volantik # The name of this repository
 
 sites:
   - name: Volantik Prod
-    url: https://www.volantik.com
+    url: https://volantik.com
   - name: Volantik Staging
     url: https://staging.volantik.com
   - name: Volantik PING
