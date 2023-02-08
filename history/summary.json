@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/volantik.com.ico",
     "slug": "volantik-prod",
     "status": "down",
-    "uptime": "81.79%",
-    "uptimeDay": "81.79%",
-    "uptimeWeek": "81.79%",
-    "uptimeMonth": "81.79%",
-    "uptimeYear": "81.79%",
+    "uptime": "81.72%",
+    "uptimeDay": "81.72%",
+    "uptimeWeek": "81.72%",
+    "uptimeMonth": "81.72%",
+    "uptimeYear": "81.72%",
     "time": 1476,
     "timeDay": 1476,
     "timeWeek": 1476,
     "timeMonth": 1476,
     "timeYear": 1476,
     "dailyMinutesDown": {
-      "2023-02-08": 97
+      "2023-02-08": 98
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.volantik.com.ico",
     "slug": "volantik-staging",
     "status": "down",
-    "uptime": "81.57%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "81.57%",
-    "uptimeYear": "81.57%",
+    "uptime": "81.50%",
+    "uptimeDay": "81.50%",
+    "uptimeWeek": "81.50%",
+    "uptimeMonth": "81.50%",
+    "uptimeYear": "81.50%",
     "time": 1457,
     "timeDay": 1457,
     "timeWeek": 1457,
     "timeMonth": 1457,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2023-02-08": 98
+      "2023-02-08": 99
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "volantik-ping",
     "status": "down",
-    "uptime": "78.01%",
-    "uptimeDay": "78.01%",
-    "uptimeWeek": "78.01%",
-    "uptimeMonth": "78.01%",
-    "uptimeYear": "78.01%",
+    "uptime": "77.94%",
+    "uptimeDay": "77.94%",
+    "uptimeWeek": "77.94%",
+    "uptimeMonth": "77.94%",
+    "uptimeYear": "77.94%",
     "time": 319,
     "timeDay": 319,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2023-02-08": 118
+      "2023-02-08": 119
     }
   }
 ]
