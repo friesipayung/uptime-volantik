@@ -20,4 +20,4 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://friendly.github.io/uptime-volantik
+[**Visit our status website →**](https://friesipayung.github.io/uptime-volantik/)
