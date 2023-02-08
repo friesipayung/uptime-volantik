@@ -5,18 +5,18 @@
     "icon": "https://volantik.com/img/logo/volantik.svg",
     "slug": "volantik-production-web",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "94.25%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "94.25%",
+    "uptimeYear": "94.25%",
     "time": 1392,
     "timeDay": 1392,
     "timeWeek": 1392,
     "timeMonth": 1392,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-02-08": 5
+      "2023-02-08": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://staging.volantik.com",
     "icon": "https://volantik.com/img/logo/volantik.svg",
     "slug": "volantik-staging-web",
-    "status": "down",
-    "uptime": "95.01%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.01%",
+    "status": "up",
+    "uptime": "94.34%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "94.34%",
     "time": 1406,
     "timeDay": 1406,
     "timeWeek": 1406,
     "timeMonth": 1406,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2023-02-08": 5
+      "2023-02-08": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.volantik.com/v1/summary",
     "icon": "https://volantik.com/img/logo/volantik.svg",
     "slug": "volantik-api",
-    "status": "down",
-    "uptime": "93.76%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "93.76%",
-    "time": 1270,
-    "timeDay": 1270,
-    "timeWeek": 1270,
-    "timeMonth": 1270,
-    "timeYear": 1270,
+    "status": "up",
+    "uptime": "92.10%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "92.10%",
+    "time": 1269,
+    "timeDay": 1269,
+    "timeWeek": 1269,
+    "timeMonth": 1269,
+    "timeYear": 1269,
     "dailyMinutesDown": {
-      "2023-02-08": 6
+      "2023-02-08": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "volantik.com",
     "icon": "https://volantik.com/img/logo/volantik.svg",
     "slug": "volantik-icmp",
-    "status": "down",
-    "uptime": "95.12%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
-    "time": 294,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "94.32%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "94.32%",
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-02-08": 5
+      "2023-02-08": 6
     }
   }
 ]
