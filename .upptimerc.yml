@@ -12,14 +12,18 @@ sites:
     url: volantik.com
 
 status-website:
+  name: Volantik
+  logoUrl: https://volantik.com/img/logo/volantik.svg
+  faviconSvg: https://volantik.com/img/logo/volantik.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime-volantik
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Welcome to Volantik's home for real-time and historical data on system performance."
   introMessage: ""
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -28,7 +32,7 @@ status-website:
       
 workflowSchedule:
   graphs: "*/15 * * * *"
-  responseTime: "*/15 * * * *"
+  responseTime: "*/1 * * * *"
   staticSite: "*/15 * * * *"
   summary: "*/15 * * * *"
   updateTemplate: "0 0 * * *"
