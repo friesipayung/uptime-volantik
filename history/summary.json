@@ -4,19 +4,19 @@
     "url": "https://volantik.com",
     "icon": "https://icons.duckduckgo.com/ip3/volantik.com.ico",
     "slug": "volantik-prod",
-    "status": "down",
-    "uptime": "76.27%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "76.27%",
-    "uptimeMonth": "76.27%",
-    "uptimeYear": "76.27%",
-    "time": 1380,
-    "timeDay": 1380,
-    "timeWeek": 1380,
-    "timeMonth": 1380,
-    "timeYear": 1380,
+    "status": "up",
+    "uptime": "76.04%",
+    "uptimeDay": "76.04%",
+    "uptimeWeek": "76.04%",
+    "uptimeMonth": "76.04%",
+    "uptimeYear": "76.04%",
+    "time": 1386,
+    "timeDay": 1386,
+    "timeWeek": 1386,
+    "timeMonth": 1386,
+    "timeYear": 1386,
     "dailyMinutesDown": {
-      "2023-02-08": 59
+      "2023-02-08": 60
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://staging.volantik.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.volantik.com.ico",
     "slug": "volantik-staging",
-    "status": "down",
-    "uptime": "76.27%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "76.27%",
-    "uptimeMonth": "76.27%",
-    "uptimeYear": "76.27%",
-    "time": 1374,
-    "timeDay": 1374,
-    "timeWeek": 1374,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "status": "up",
+    "uptime": "76.00%",
+    "uptimeDay": "76.00%",
+    "uptimeWeek": "76.00%",
+    "uptimeMonth": "76.00%",
+    "uptimeYear": "76.00%",
+    "time": 1380,
+    "timeDay": 1380,
+    "timeWeek": 1380,
+    "timeMonth": 1380,
+    "timeYear": 1380,
     "dailyMinutesDown": {
-      "2023-02-08": 59
+      "2023-02-08": 60
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "volantik.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "volantik-ping",
-    "status": "down",
-    "uptime": "68.86%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "68.86%",
-    "uptimeYear": "68.86%",
-    "time": 297,
-    "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "68.60%",
+    "uptimeDay": "68.60%",
+    "uptimeWeek": "68.60%",
+    "uptimeMonth": "68.60%",
+    "uptimeYear": "68.60%",
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-02-08": 78
+      "2023-02-08": 79
     }
   }
 ]
