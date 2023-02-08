@@ -10,7 +10,6 @@ sites:
   - name: Volantik PING
     check: "tcp-ping"
     url: volantik.com
-    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
