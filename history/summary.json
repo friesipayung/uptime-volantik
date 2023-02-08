@@ -1,41 +1,41 @@
 [
   {
     "name": "Volantik Prod",
-    "url": "https://www.volantik.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.volantik.com.ico",
+    "url": "https://volantik.com",
+    "icon": "https://icons.duckduckgo.com/ip3/volantik.com.ico",
     "slug": "volantik-prod",
     "status": "down",
-    "uptime": "13.82%",
-    "uptimeDay": "13.82%",
-    "uptimeWeek": "13.82%",
-    "uptimeMonth": "13.82%",
-    "uptimeYear": "13.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-08": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Volantik Staging",
     "url": "https://staging.volantik.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.volantik.com.ico",
     "slug": "volantik-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 1430,
     "timeDay": 1430,
     "timeWeek": 1430,
     "timeMonth": 1430,
     "timeYear": 1430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-08": 0
+    }
   },
   {
     "name": "Volantik PING",
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "volantik-ping",
     "status": "down",
-    "uptime": "37.17%",
-    "uptimeDay": "37.17%",
-    "uptimeWeek": "37.17%",
-    "uptimeMonth": "37.17%",
-    "uptimeYear": "37.17%",
+    "uptime": "1.56%",
+    "uptimeDay": "1.56%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 6
     }
   }
 ]
