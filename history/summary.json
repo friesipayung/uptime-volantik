@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/volantik.com.ico",
     "slug": "volantik-prod",
     "status": "up",
-    "uptime": "74.87%",
-    "uptimeDay": "74.87%",
-    "uptimeWeek": "74.87%",
-    "uptimeMonth": "74.87%",
-    "uptimeYear": "74.87%",
-    "time": 1414,
-    "timeDay": 1414,
-    "timeWeek": 1414,
-    "timeMonth": 1414,
-    "timeYear": 1414,
+    "uptime": "69.97%",
+    "uptimeDay": "69.97%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "69.97%",
+    "uptimeYear": "69.97%",
+    "time": 1416,
+    "timeDay": 1416,
+    "timeWeek": 1416,
+    "timeMonth": 1416,
+    "timeYear": 1416,
     "dailyMinutesDown": {
-      "2023-02-08": 41
+      "2023-02-08": 52
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.volantik.com.ico",
     "slug": "volantik-staging",
     "status": "up",
-    "uptime": "74.88%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "74.88%",
-    "uptimeMonth": "74.88%",
-    "uptimeYear": "74.88%",
-    "time": 1404,
-    "timeDay": 1404,
-    "timeWeek": 1404,
-    "timeMonth": 1404,
-    "timeYear": 1404,
+    "uptime": "69.99%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "69.99%",
+    "uptimeMonth": "69.99%",
+    "uptimeYear": "69.99%",
+    "time": 1405,
+    "timeDay": 1405,
+    "timeWeek": 1405,
+    "timeMonth": 1405,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2023-02-08": 41
+      "2023-02-08": 52
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "volantik-ping",
     "status": "up",
-    "uptime": "63.50%",
-    "uptimeDay": "63.50%",
-    "uptimeWeek": "63.50%",
-    "uptimeMonth": "63.50%",
-    "uptimeYear": "63.50%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "uptime": "59.34%",
+    "uptimeDay": "59.34%",
+    "uptimeWeek": "59.34%",
+    "uptimeMonth": "59.34%",
+    "uptimeYear": "59.34%",
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-02-08": 60
+      "2023-02-08": 71
     }
   }
 ]
