@@ -21,7 +21,7 @@ status-website:
   baseUrl: /uptime-volantik
   introTitle: "Welcome to Volantik's home for real-time and historical data on system performance."
   introMessage: ""
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
