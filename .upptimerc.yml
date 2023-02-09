@@ -35,6 +35,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
+assignees:
+  - friesipayung
+  - basithvolantis
+      
 workflowSchedule:
   graphs: "*/15 * * * *"
   responseTime: "*/1 * * * *"
