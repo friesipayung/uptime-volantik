@@ -38,6 +38,7 @@ status-website:
 assignees:
   - friesipayung
   - basithvolantis
+  - habibrosyad
       
 workflowSchedule:
   graphs: "*/15 * * * *"
